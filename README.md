@@ -1,7 +1,8 @@
 # zephyr
 Zepher ("the Zephyr Project"), i.e. this repository is a new modus of innovation based in common logic, to be preached at the temple of tech.  We want to change the modus operandi of the common startup.  This is a project that aims to change the startup culture and help founders find their way by bringing them back to focus on business.  
-# zephyr 
-Anyone who uses Zephry (the "User"), agrees,  by function of using The Zephyr Project, hereby agrees to assign all technology or intellectual property hosted on this repository according to the folowing agreement: 
+
+# Technology Assignment Agreement ("The Agreement")
+Anyone who uses Zephry (the "User"), agrees,  by function of using The Zephyr Project, hereby agrees to assign all technology or intellectual property hosted on this repository according to the folowing agreement(the "Agreement") : 
 
 TECHNOLOGY ASSIGNMENT AGREEMENT (the “Agreement”) is entered by and between the User as (the “Assignor”) and NARSPI, LLC., a Wyoming Limited Liability Corporation (the “Company”).  The parties hereto agree as follows:
 AGREEMENT
